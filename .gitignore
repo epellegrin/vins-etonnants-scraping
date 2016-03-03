@@ -1,2 +1,8 @@
-nodes_modules
+nodes_modules/
 downloads
+node_modules/**
+datas.json
+
+*.jpg
+
+*.csv
