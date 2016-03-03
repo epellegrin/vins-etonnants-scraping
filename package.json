@@ -1,0 +1,21 @@
+{
+    "name": "download",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node server"
+    },
+    "dependencies": {
+
+        "fs": "*",
+        "url": "*",
+        "http": "*"
+    },
+    "devDependencies": {
+
+    },
+    "description": "downloader",
+    "main": "upload.js",
+    "author": "Emmanuel Pellegrin",
+    "license": "propriétaire"
+}
